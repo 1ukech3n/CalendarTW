@@ -1,4 +1,4 @@
-# CalendarTW
+# CalendarTW, Taiwan Calendar, 台灣行事曆
 Provides the `list` and `dict` format of Taiwan Calendar.
 
 Please note that the list data format is came from [TaiwanCalendar](https://github.com/ruyut/TaiwanCalendar)
